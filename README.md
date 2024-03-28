@@ -3,10 +3,15 @@
 
 <table width="100%" border='0'>
    <tr><td width="20%" valign="bottom"><img src="/images/access-point-network.png"></td><td valign="middle">Ташкентский профессиональный колледж связи.</br>Факультет монтаж линий связи</br>Связист.</td></tr>
-   <tr><td width="20%" valign="bottom"><img src="/images/sos_academy.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td></tr>
-   <tr><td width="20%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   </tr>
-  </table>
+   <tr><td width="20%" valign="bottom"><img src="/images/sos_academy.png"></td><td valign="middle"><a target="_blank" href="https://qa.guru">SOS Academy</a></br>Java SE, Adnroid Application Development.</br>Java SE.</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/beproedu.jpeg"></td><td valign="middle"><a target="_blank" href="https://qa.guru">beproedu</a></br>Java Programming bases</br>Core Java</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/micros.jpeg"></td><td valign="middle"><a target="_blank" href="https://qa.guru">Micros Training Centre</a></br>
+Basic JavaScript + Jquery + Bootstrap</br>JavaScript · jQuery</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/carier.jpeg"></td><td valign="middle"><a target="_blank" href="https://qa.guru">учебный центр "Карьера"</a></br>Веб-дизайн</br>WEB-Designer</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/alfakom.png"></td><td valign="middle"><a target="_blank" href="https://qa.guru">Alfakom training center</a></br>PHP & MySQL</br>PHP · MySQL</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/alfakom.png"></td><td valign="middle"><a target="_blank" href="https://qa.guru">Alfakom training center</a></br>HTML 5, CSS 3, WebDesing, JavaScript, XML</br>HTML5 · CSS · JavaScript · XML</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/alfakom.png"></td><td valign="middle"><a target="_blank" href="https://qa.guru">Alfakom training center</a></br>Foundations of programming and databases</br>Java · MySQL</td></tr>
+</table>
   </br>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
