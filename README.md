@@ -1,4 +1,4 @@
-### Привет привет! :wave:
+### Привет привет! :wave: :uzbekistan:
 Меня зовут Руслан. С марта 2020 года я начал карьеру в сфере QA.</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
@@ -40,4 +40,4 @@
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
+:technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
