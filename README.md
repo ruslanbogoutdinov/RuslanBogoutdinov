@@ -3,7 +3,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/access-point-network.png"></td><td valign="middle">Ташкентский профессиональный колледж связи.</br>Факультет обслуживания линий связи.</br>Связист.</td></tr>
+    <td width="30%" valign="bottom"><img src="/images/access-point-network.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td></tr>
     <tr><td width="30%" valign="bottom"><img src="/images/FDO80.jpg"></td><td valign="middle">Томский государственный университет систем управления и радиоэлектроники.</br>Факультет дополнитеьного образования.</br>Тестирование и контроль качества программного обеспечения.</td>
     <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
