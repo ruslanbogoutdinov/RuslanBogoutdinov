@@ -3,11 +3,11 @@
 
 <table width="100%" border='0'>
    <tr>
-      <td width="30%" valign="bottom"><img src="/images/access-point-network.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td>     </tr>
+      <td width="20%" valign="bottom"><img src="/images/access-point-network.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td>     </tr>
    <tr>
-      <td width="30%" valign="bottom"><img src="/images/sos_academy.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td>
+      <td width="20%" valign="bottom"><img src="/images/sos_academy.png"></td><td valign="middle">SOS Academy.</br>Java SE, Adnroid Application Development.</br>Java SE.</td>
    </tr>
-   <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   <tr><td width="20%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
