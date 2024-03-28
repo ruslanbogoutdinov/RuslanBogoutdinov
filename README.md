@@ -1,4 +1,4 @@
-### Добро пожаловать и привет! :cherry_blossom:
+### Привет привет! :wave:
 Меня зовут Елена. С сентября 2018 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **ElenaSkorobodilova/ElenaSkorobodilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
