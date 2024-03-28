@@ -3,8 +3,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
 
-## Небольной проект портфолио
+## Небольшой проект портфолио
 Реализован для общих ознакомительных целей
+
 ## WEB-тестирование
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
@@ -18,7 +19,6 @@
 - [x] Тестпланы авто- и ручного тестирования
 - [x] Задачи на дефекты
 
-
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)</br></br>
@@ -28,7 +28,6 @@
 - [x] Описание модели получаемых данных с помощью библиотеки Lombok
 - [x] Лямбда-подход для описания Allure Step
 - [x] Шаблоны форматирования логов запросов
-
 
 ## Тестирование мобильного приложения
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/financisto-mobile-tests">financisto-mobile-tests</a></br></br>
