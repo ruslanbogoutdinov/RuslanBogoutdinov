@@ -1,5 +1,5 @@
 ### Привет привет! :wave:
-Меня зовут Елена. С сентября 2018 года я - инженер по тестированию программного обеспечения.</br>
+Меня зовут Руслан. С марта 2020 года я начал рабоать в сфере QA.</br>
 <!--
 **ElenaSkorobodilova/ElenaSkorobodilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
