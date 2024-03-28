@@ -40,4 +40,4 @@
 - [x] Различные файлы конфигураций для запуска тестов
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/ElenaSeversk">t.me/ElenaSeversk</a>
+:cherry_blossom: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
