@@ -74,8 +74,11 @@
 :triangular_flag_on_post: Что особенного:
 
 - [x] Первоначальная формулировка шагов тест-кейсов в Allure TestOps и дальнейший их импорт в IntelliJ Idea
-- [x] Степовой подход для описания Allure Step
+- [x] Степовой лямбда подход для описания Allure Step
 - [x] Различные файлы конфигураций для запуска тестов
+- [x] Page Object Model
+- [x] Owner Configs
+- [x] Аттачменты после выполнения теста (screenshots, page source)
 
 </br></br>
 :technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
