@@ -31,7 +31,19 @@
 
 ## Тестирование MOBILE
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_mobile_tests.git">portfolio_mobile_tests</a></br></br>
-<a href="https://www.java.com/"><img src="/icons/Java.svg" width="50" height="50"  alt="Java"/></a> | <a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a> | <a href="https://developer.android.com/studio"><img src="/icons/Android-studio.svg" width="50" height="50"  alt="Android Studio"/></a> | <a href="https://github.com/"><img src="/icons/GitHub.svg" width="50" height="50"  alt="Github"/></a> | <a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="50" height="50"  alt="JUnit 5"/></a> | <a href="https://gradle.org/"><img src="/icons/Gradle.svg" width="50" height="50"  alt="Gradle"/></a> | <a href="https://selenide.org/"><img src="/icons/Selenide.svg" width="50" height="50"  alt="Selenide"/></a> |   <a href="https://www.jenkins.io/"><img src="/icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://www.java.com/"><img src="/icons/Java.svg" width="50" height="50" alt="Java"/></a>
+<a href="https://gradle.org/"><img src="/icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
+<a href="https://selenide.org/"><img src="/icons/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
+<a href=""><img src="/icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
+<a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
+<a href="https://github.com/"><img src="/icons/GitHub.svg" width="50" height="50" alt="Github"/></a>
+<a href="https://www.jenkins.io/"><img src="/icons/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
+<a href="https://allurereport.org/"><img src="/icons/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
+<a href="https://qameta.io/"><img src="/icons/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
+<a href="https://appium.io/docs/en/latest/"><img src="/icons/Appium.svg" width="50" height="50" alt="Appium"/></a>
+<a href="https://developer.android.com/studio"><img src="/icons/Android-studio.svg" width="50" height="50" alt="Android Studio"/></a>
+
 :heavy_check_mark: Реализованы автотесты мобильного приложения 'Wikipedia' на реальном мобильном устройства, а также и на эмуляторе</br></br>
 :triangular_flag_on_post: Что особенного:
 
