@@ -78,7 +78,7 @@
 - [x] Различные файлы конфигураций для запуска тестов
 - [x] Page Object Model
 - [x] Owner Configs
-- [x] Аттачменты после выполнения теста (screenshots, page source)
+- [x] Аттачменты после выполнения тестов (screenshots, page source)
 
 </br></br>
 :technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
