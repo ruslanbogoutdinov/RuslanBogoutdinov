@@ -9,18 +9,18 @@
 ## Тестирование WEB
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/rosatom-career-tests">rosatom-career-tests</a></br></br>
 
-<a href="https://www.java.com/"><img src="/icons/Java.svg" width="50" height="50" alt="Java"/></a>
-<a href="https://gradle.org/"><img src="/icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
-<a href="https://selenide.org/"><img src="/icons/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
-<a href="https://aerokube.com/selenoid/latest/"><img src="/icons/Selenoid.svg" width="50" height="50" alt="Selenoid"/></a>
-<a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
-<a href="https://github.com/"><img src="/icons/GitHub.svg" width="50" height="50" alt="Github"/></a>
-<a href="https://www.jenkins.io/"><img src="/icons/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
-<a href="https://allurereport.org/"><img src="/icons/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
-<a href="https://qameta.io/"><img src="/icons/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
-<a href="https://appium.io/docs/en/latest/"><img src="/icons/Appium.svg" width="50" height="50" alt="Appium"/></a>
-<a href="https://developer.android.com/studio"><img src="/icons/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
+<a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
+<a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
+<a href="https://selenide.org/"><img src="/logos/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
+<a href="https://aerokube.com/selenoid/latest/"><img src="/logos/Selenoid.svg" width="50" height="50" alt="Selenoid"/></a>
+<a href="https://junit.org/junit5/"><img src="/logos/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
+<a href="https://github.com/"><img src="/logos/GitHub.svg" width="50" height="50" alt="Github"/></a>
+<a href="https://www.jenkins.io/"><img src="/logos/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
+<a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
+<a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
+<a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
+<a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
 :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
 :triangular_flag_on_post: Что особенного:
@@ -35,18 +35,18 @@
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
 
-<a href="https://www.java.com/"><img src="/icons/Java.svg" width="50" height="50" alt="Java"/></a>
-<a href="https://gradle.org/"><img src="/icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
-<a href="https://selenide.org/"><img src="/icons/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
-<a href="https://aerokube.com/selenoid/latest/"><img src="/icons/Selenoid.svg" width="50" height="50" alt="Selenoid"/></a>
-<a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
-<a href="https://github.com/"><img src="/icons/GitHub.svg" width="50" height="50" alt="Github"/></a>
-<a href="https://www.jenkins.io/"><img src="/icons/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
-<a href="https://allurereport.org/"><img src="/icons/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
-<a href="https://qameta.io/"><img src="/icons/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
-<a href="https://appium.io/docs/en/latest/"><img src="/icons/Appium.svg" width="50" height="50" alt="Appium"/></a>
-<a href="https://developer.android.com/studio"><img src="/icons/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
+<a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
+<a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
+<a href="https://selenide.org/"><img src="/logos/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
+<a href="https://aerokube.com/selenoid/latest/"><img src="/logos/Selenoid.svg" width="50" height="50" alt="Selenoid"/></a>
+<a href="https://junit.org/junit5/"><img src="/logos/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
+<a href="https://github.com/"><img src="/logos/GitHub.svg" width="50" height="50" alt="Github"/></a>
+<a href="https://www.jenkins.io/"><img src="/logos/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
+<a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
+<a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
+<a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
+<a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
 :heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
 :triangular_flag_on_post: Что особенного:
@@ -58,18 +58,18 @@
 ## Тестирование MOBILE
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_mobile_tests.git">portfolio_mobile_tests</a></br></br>
 
-<a href="https://www.java.com/"><img src="/icons/Java.svg" width="50" height="50" alt="Java"/></a>
-<a href="https://gradle.org/"><img src="/icons/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="/icons/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
-<a href="https://selenide.org/"><img src="/icons/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
-<a href="https://junit.org/junit5/"><img src="/icons/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
-<a href="https://github.com/"><img src="/icons/GitHub.svg" width="50" height="50" alt="Github"/></a>
-<a href="https://www.jenkins.io/"><img src="/icons/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
-<a href="https://allurereport.org/"><img src="/icons/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
-<a href="https://qameta.io/"><img src="/icons/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
-<a href="https://appium.io/docs/en/latest/"><img src="/icons/Appium.svg" width="50" height="50" alt="Appium"/></a>
-<a href="https://developer.android.com/studio"><img src="/icons/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
-<a href="https://www.browserstack.com/"><img src="/icons/Browserstack.svg" width="50" height="50" alt="BrowserStack"/></a>
+<a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
+<a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
+<a href="https://selenide.org/"><img src="/logos/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
+<a href="https://junit.org/junit5/"><img src="/logos/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
+<a href="https://github.com/"><img src="/logos/GitHub.svg" width="50" height="50" alt="Github"/></a>
+<a href="https://www.jenkins.io/"><img src="/logos/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
+<a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
+<a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
+<a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
+<a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
+<a href="https://www.browserstack.com/"><img src="/logos/Browserstack.svg" width="50" height="50" alt="BrowserStack"/></a>
 
 :heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторе, реальном мобильном устройстве, а также на удаленных эмуляторах в BrowserStack</br></br>
 :triangular_flag_on_post: Что особенного:
