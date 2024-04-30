@@ -70,7 +70,7 @@
 <a href="https://appium.io/docs/en/latest/"><img src="/icons/Appium.svg" width="50" height="50" alt="Appium"/></a>
 <a href="https://developer.android.com/studio"><img src="/icons/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторе и на реальном мобильном устройстве</br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторе, реальном мобильном устройстве, а также на удаленных эмуляторах в BrowserStack</br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Первоначальная формулировка шагов тест-кейсов в Allure TestOps и дальнейший их импорт в IntelliJ Idea
@@ -78,7 +78,7 @@
 - [x] Различные файлы конфигураций для запуска тестов
 - [x] Page Object Model
 - [x] Owner Configs
-- [x] Аттачменты после выполнения тестов (screenshots, page source)
+- [x] Аттачменты после выполнения тестов (screenshot, video, page source)
 
 </br></br>
 :technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
