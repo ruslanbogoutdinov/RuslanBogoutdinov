@@ -71,7 +71,7 @@
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 <a href="https://www.browserstack.com/"><img src="/logos/Browserstack.svg" width="50" height="50" alt="BrowserStack"/></a>
 
-:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторе, реальном мобильном устройстве, а также на удаленных эмуляторах в BrowserStack</br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторах, реальных мобильных устройствах, а также на удаленных эмуляторах в BrowserStack</br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Первоначальная формулировка шагов тест-кейсов в Allure TestOps и дальнейший их импорт в IntelliJ Idea
