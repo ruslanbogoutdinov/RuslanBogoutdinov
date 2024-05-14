@@ -33,26 +33,24 @@
 - [x] Задачи на дефекты
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ElenaSkorobodilova/open-library-api-tests">open-library-api-tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
 
 <a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
 <a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
 <a href="https://selenide.org/"><img src="/logos/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
-<a href="https://aerokube.com/selenoid/latest/"><img src="/logos/Selenoid.svg" width="50" height="50" alt="Selenoid"/></a>
 <a href="https://junit.org/junit5/"><img src="/logos/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
 <a href="https://github.com/"><img src="/logos/GitHub.svg" width="50" height="50" alt="Github"/></a>
 <a href="https://www.jenkins.io/"><img src="/logos/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
 <a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
-<a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
-<a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-:heavy_check_mark: Реализованы автотесты Rest Api на проверку различных возможностей поиска на сайте https://openlibrary.org/.</br></br>
+:heavy_check_mark: Реализованы автотесты REST API на проверку отображения новостей на сайте https://ok.surf/.</br></br>
 :triangular_flag_on_post: Что особенного:
 
-- [x] Описание модели получаемых данных с помощью библиотеки Lombok
+- [x] Использованы модели получаемых данных с помощью библиотеки Lombok
 - [x] Лямбда-подход для описания Allure Step
+- [x] Использованы спецификации для запроса / ответа
 - [x] Шаблоны форматирования логов запросов
 
 ## Тестирование MOBILE
