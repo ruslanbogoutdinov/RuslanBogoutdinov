@@ -1,7 +1,7 @@
 ### Привет привет! :wave: :uzbekistan:
 Меня зовут Руслан. С марта 2020 года я начал карьеру в сфере QA.</br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+engineering)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanbogoutdinov&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
