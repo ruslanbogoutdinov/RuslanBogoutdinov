@@ -42,7 +42,7 @@
 <a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
 <a href="https://selenide.org/"><img src="/logos/Selenide.svg" width="50" height="50" alt="Selenide"/></a>
 <a href="https://junit.org/junit5/"><img src="/logos/JUnit5.svg" width="50" height="50" alt="JUnit 5"/></a>
-<a href="https://rest-assured.io/"><img src="/logos/RestAssureds.png" width="60" height="60" alt="Rest Assured"/></a>
+<a href="https://rest-assured.io/"><img src="/logos/RestAssured.png" width="50" height="50" alt="Rest Assured"/></a>
 <a href="https://projectlombok.org/"><img src="/logos/Lombok.png" width="50" height="50" alt="Lombok"/></a>
 <a href="https://github.com/"><img src="/logos/GitHub.svg" width="50" height="50" alt="Github"/></a>
 <a href="https://www.jenkins.io/"><img src="/logos/Jenkins.svg" width="50" height="50" alt="Jenkins"/></a>
