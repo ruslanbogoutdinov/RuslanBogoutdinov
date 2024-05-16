@@ -85,7 +85,7 @@
 - [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
 - [x] Применена практика первоначальной формулировки шагов тест-кейсов в <code><strong>*Allure TestOps*</strong></code> с дальнейшим импортом в <code><strong>*IntelliJ IDEA*</strong></code>
 - [x] Реализован <code><strong>*Lambda*</strong></code> подход для описания <code><strong>*Allure Step*</strong></code>
-- [x] Использована библиотека <code><strong>*Owner*</strong></code> для различных файлов конфигураций для запуска тестов <code><strong>*(локально / удаленно)*</strong></code>
+- [x] Использована библиотека <code><strong>*Owner*</strong></code> для различных файлов конфигураций запуска тестов <code><strong>*(локально / удаленно)*</strong></code>
 - [x] Реализованы методы для прикрепления аттачментов после выполнения тестов <code><strong>*(screenshot, page source)*</strong></code>
 
 </br></br>
