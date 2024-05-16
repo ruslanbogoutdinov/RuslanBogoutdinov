@@ -1,5 +1,5 @@
 ### Привет привет! :wave: :uzbekistan:
-Меня зовут Руслан. С марта 2020 года я начал карьеру в сфере QA.</br>
+> Меня зовут Руслан. С марта 2020 года я начал карьеру в сфере QA.</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+engineering)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
 <a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
+> :heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.</br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Page Object
