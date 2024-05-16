@@ -25,12 +25,10 @@
 :heavy_check_mark: Реализованы UI автотесты на проверку поиска репозитория и корректного отображения элементов сайта <code><strong>*GitHub*</strong></code>.</br></br>
 :triangular_flag_on_post: Что особенного:
 
-- [x] Page Object
-- [x] Параметризованная сборка
-- [x] owner.config
-- [x] Интеграция с Jira
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Задачи на дефекты
+- [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
+- [x] Использована сборка проекта с параметрами
+- [x] Использована библиотека <code><strong>*Owner*</strong></code> для проперти
+- [x] Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
