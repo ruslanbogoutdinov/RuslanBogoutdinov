@@ -30,9 +30,11 @@
 :triangular_flag_on_post: Что особенного:
 
 - [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
+- [x] Реализован <code><strong>*Lambda*</strong></code> подход для описания <code><strong>*Allure Step*</strong></code>
 - [x] Использована сборка проекта с параметрами
-- [x] Использована библиотека <code><strong>*Owner*</strong></code> для проперти
+- [x] Использована библиотека <code><strong>*Owner*</strong></code> для различных файлов конфигураций для запуска тестов <code><strong>*(локально / удаленно)*</strong></code>
 - [x] Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code>
+- [x] Реализованы методы для прикрепления аттачментов после выполнения тестов <code><strong>*(screenshot, video, page source)*</strong></code>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
@@ -52,6 +54,7 @@
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
 
 > Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте https://ok.surf/.
+
 :triangular_flag_on_post: Что особенного:
 
 - [x] Использованы модели получаемых данных с помощью библиотеки <code><strong>*Lombok*</strong></code>
@@ -75,15 +78,15 @@
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 <a href="https://www.browserstack.com/"><img src="/logos/Browserstack.svg" width="50" height="50" alt="BrowserStack"/></a>
 
-:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia, на эмуляторах, реальных мобильных устройствах, а также на удаленных эмуляторах в BrowserStack</br></br>
+> Реализованы <code><strong>*UI*</strong></code> автотесты мобильного приложения <code><strong>*Wikipedia*</strong></code>, для запуска на эмуляторах, реальных мобильных устройствах, а также на удаленных устройствах в BrowserStack.
+
 :triangular_flag_on_post: Что особенного:
 
-- [x] Первоначальная формулировка шагов тест-кейсов в Allure TestOps и дальнейший их импорт в IntelliJ Idea
-- [x] Степовой лямбда подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов (локально / удаленно)
-- [x] Page Object Model
-- [x] Owner Configs
-- [x] Аттачменты после выполнения тестов (screenshot, video, page source)
+- [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
+- [x] Применена практика первоначальной формулировки шагов тест-кейсов в <code><strong>*Allure TestOps*</strong></code> с дальнейшим импортом в <code><strong>*IntelliJ IDEA*</strong></code>
+- [x] Реализован <code><strong>*Lambda*</strong></code> подход для описания <code><strong>*Allure Step*</strong></code>
+- [x] Использована библиотека <code><strong>*Owner*</strong></code> для различных файлов конфигураций для запуска тестов <code><strong>*(локально / удаленно)*</strong></code>
+- [x] Реализованы методы для прикрепления аттачментов после выполнения тестов <code><strong>*(screenshot, page source)*</strong></code>
 
 </br></br>
 :technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
