@@ -37,6 +37,8 @@
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
 
+:books: Инструментарий:
+
 <a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
 <a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
@@ -49,7 +51,7 @@
 <a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
 
-> Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте https://ok.surf/.</br></br>
+> Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте https://ok.surf/.
 
 :triangular_flag_on_post: Что особенного:
 
