@@ -29,7 +29,7 @@
 
 :triangular_flag_on_post: Что особенного:
 
-- [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
+:white_check_mark: Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
 - [x] Использована сборка проекта с параметрами
 - [x] Использована библиотека <code><strong>*Owner*</strong></code> для проперти
 - [x] Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code>
