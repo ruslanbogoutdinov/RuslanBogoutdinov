@@ -53,7 +53,7 @@
 <a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
 
-> Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте https://ok.surf/.
+> Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте [ok.surf](https://ok.surf/).
 
 :triangular_flag_on_post: Что особенного:
 
