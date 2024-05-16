@@ -78,7 +78,7 @@
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 <a href="https://www.browserstack.com/"><img src="/logos/Browserstack.svg" width="50" height="50" alt="BrowserStack"/></a>
 
-> Реализованы <code><strong>*UI*</strong></code> автотесты мобильного приложения <code><strong>*Wikipedia*</strong></code>, для запуска на эмуляторах, реальных мобильных устройствах, а также на удаленных устройствах в BrowserStack.
+> Реализованы <code><strong>*UI*</strong></code> автотесты мобильного приложения <code><strong>*Wikipedia*</strong></code>, для запуска на эмуляторах, реальных мобильных устройствах, а также на удаленных устройствах в <code><strong>*BrowserStack*</strong></code>.
 
 :triangular_flag_on_post: Что особенного:
 
