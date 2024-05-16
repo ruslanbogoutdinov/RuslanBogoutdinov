@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+engineering)](https://git.io/typing-svg)
+
 ### Привет привет! :wave: :uzbekistan:
 > Меня зовут Руслан. С марта 2020 года я начал карьеру в сфере QA.</br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Automation+engineering)](https://git.io/typing-svg)
 
 ## Небольшой проект портфолио
 > Данный проект реализован для общих ознакомительных целей. Все три проекта для <code><strong>*MOBILE*</strong></code>, <code><strong>*WEB*</strong></code> и <code><strong>*REST API*</strong></code> реализованы в разных репозиториях, сугубо ради удобства просмотра каждого проекта по отдельности :slightly_smiling_face:
