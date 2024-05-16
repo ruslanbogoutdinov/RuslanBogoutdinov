@@ -30,9 +30,9 @@
 :triangular_flag_on_post: Что особенного:
 
 :white_check_mark: Использован паттерн проектирования <code><strong>*Page Object*</strong></code></br>
-:white_check_mark: Использована сборка проекта с параметрами
-:white_check_mark: Использована библиотека <code><strong>*Owner*</strong></code> для проперти
-:white_check_mark: Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code>
+:white_check_mark: Использована сборка проекта с параметрами</br>
+:white_check_mark: Использована библиотека <code><strong>*Owner*</strong></code> для проперти</br>
+:white_check_mark: Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code></br>
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
