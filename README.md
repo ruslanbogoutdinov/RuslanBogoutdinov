@@ -30,8 +30,11 @@
 :triangular_flag_on_post: Что особенного:
 
 :white_check_mark: Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
+
 :white_check_mark: Использована сборка проекта с параметрами
+
 :white_check_mark: Использована библиотека <code><strong>*Owner*</strong></code> для проперти
+
 :white_check_mark: Реализованы тестпланы авто / мануал тестирования в <code><strong>*Allure TestOps*</strong></code> и <code><strong>*Allure Report*</strong></code>
 
 ## Тестирование REST API
