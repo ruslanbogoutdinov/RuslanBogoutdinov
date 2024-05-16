@@ -24,7 +24,9 @@
 <a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-> Реализованы UI автотесты на проверку поиска репозитория и корректного отображения элементов сайта <code><strong>*GitHub*</strong></code>.</br></br>
+> Реализованы UI автотесты на проверку поиска репозитория и корректного отображения элементов сайта <code><strong>*GitHub*</strong></code>.
+
+
 :triangular_flag_on_post: Что особенного:
 
 - [x] Использован паттерн проектирования <code><strong>*Page Object*</strong></code>
