@@ -35,7 +35,7 @@
 - [x] Реализованы методы для прикрепления аттачментов после выполнения тестов <code><strong>*(screenshot, video, page source)*</strong></code>
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_rest_api_tests">portfolio_rest_api_tests</a></br>
 
 :books: Инструментарий:
 
@@ -61,7 +61,7 @@
 - [x] Реализованы шаблоны форматирования логов для запроса / ответа
 
 ## Тестирование MOBILE
-:link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_mobile_tests.git">portfolio_mobile_tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_mobile_tests.git">portfolio_mobile_tests</a></br>
 
 :books: Инструментарий:
 
