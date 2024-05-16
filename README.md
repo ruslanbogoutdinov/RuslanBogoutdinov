@@ -9,6 +9,8 @@
 ## Тестирование WEB
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_web_tests">portfolio_web_tests</a></br></br>
 
+> Инструментарий
+
 <a href="https://www.java.com/"><img src="/logos/Java.svg" width="50" height="50" alt="Java"/></a>
 <a href="https://gradle.org/"><img src="/logos/Gradle.svg" width="50" height="50" alt="Gradle"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="/logos/Intelij_IDEA.svg" width="50" height="50" alt="IDEA"/></a>
