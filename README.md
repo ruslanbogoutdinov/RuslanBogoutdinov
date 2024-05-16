@@ -24,7 +24,7 @@
 <a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-> Реализованы UI автотесты на проверку поиска репозитория и корректного отображения элементов сайта <code><strong>*GitHub*</strong></code>.
+> Реализованы <code><strong>*UI*</strong></code> автотесты на проверку поиска репозитория и корректного отображения элементов сайта <code><strong>*GitHub*</strong></code>.
 
 
 :triangular_flag_on_post: Что особенного:
@@ -49,14 +49,14 @@
 <a href="https://allurereport.org/"><img src="/logos/Allure_Report.svg" width="50" height="50" alt="Allure Report"/></a>
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
 
-:heavy_check_mark: Реализованы автотесты REST API на проверку отображения новостей на сайте https://ok.surf/.</br></br>
+> Реализованы автотесты <code><strong>*REST API*</strong></code> на проверку отображения новостей на сайте https://ok.surf/.</br></br>
 
 :triangular_flag_on_post: Что особенного:
 
-- [x] Использованы модели получаемых данных с помощью библиотеки Lombok
-- [x] Лямбда-подход для описания Allure Step
+- [x] Использованы модели получаемых данных с помощью библиотеки <code><strong>*Lombok*</strong></code>
+- [x] Реализован <code><strong>*Lambda*</strong></code> подход для описания <code><strong>*Allure Step*</strong></code>
 - [x] Использованы спецификации для запроса / ответа
-- [x] Шаблоны форматирования логов запросов
+- [x] Реализованы шаблоны форматирования логов для запроса / ответа
 
 ## Тестирование MOBILE
 :link: Тестовый проект: <a target="_blank" href="https://github.com/ruslanbogoutdinov/portfolio_mobile_tests.git">portfolio_mobile_tests</a></br></br>
