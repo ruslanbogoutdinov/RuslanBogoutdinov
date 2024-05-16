@@ -22,7 +22,7 @@
 <a href="https://appium.io/docs/en/latest/"><img src="/logos/Appium.svg" width="50" height="50" alt="Appium"/></a>
 <a href="https://developer.android.com/studio"><img src="/logos/Android-Studio.svg" width="50" height="50" alt="Android Studio"/></a>
 
-:heavy_check_mark: Реализованы автотесты UI на проверку элементов главной страницы Единого карьерного портала Госкорпорации "Росатом", а также поиск заданной вакансии.
+:heavy_check_mark: Реализованы UI автотесты на проверку поиска репозитория и корректного отображения UI элементов сайта <code><strong>*GitHub*</code></strong>.
 :triangular_flag_on_post: Что особенного:
 
 - [x] Page Object
@@ -48,6 +48,7 @@
 <a href="https://qameta.io/"><img src="/logos/AllureTestOps.svg" width="50" height="50" alt="AllureTestOps"/></a>
 
 :heavy_check_mark: Реализованы автотесты REST API на проверку отображения новостей на сайте https://ok.surf/.</br></br>
+
 :triangular_flag_on_post: Что особенного:
 
 - [x] Использованы модели получаемых данных с помощью библиотеки Lombok
