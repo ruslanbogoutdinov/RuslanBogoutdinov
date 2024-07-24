@@ -89,4 +89,4 @@
 - [x] Реализованы методы для прикрепления аттачментов после выполнения тестов <code><strong>*(screenshot, page source)*</strong></code>
 
 </br></br>
-:technologist: <a target="_blank" href="https://t.me/r_bogoutdinov">t.me/r_bogoutdinov</a>
+:technologist: <a target="_blank" href="https://t.me/ruslan_bogoutdinov">t.me/ruslan_bogoutdinov</a>
